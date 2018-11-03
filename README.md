@@ -13,11 +13,13 @@ CRISP-DM : Cross Industry Process for Data Mining
 
 Dataset link:https://www.kaggle.com/airbnb/seattle/data
 
+
 ## Library
-1.Numpy and pandas
-2.Matplotlib
-3.Seaborn
-4.Pyecharts
+
+1. Numpy and pandas
+2. Matplotlib
+3. Seaborn
+4. Pyecharts
 
 ## Summary
 1. We selected the top 10 listings and did some investagation. 
